@@ -1,7 +1,12 @@
+Personal Blog Theme
+====
+This is the theme that is used on my [personal blog](http://blog.zarifis.info/). It is a clean and responsive theme for the [Ghost blogging platform](https://ghost.org/) and it provides a desktop and mobile  version. This theme wasn't developed by me, I just performed some tweaks to make it fit my needs. Specifically, I did a few modifications on some UI elements and I added the [GhostHunter](https://github.com/i11ume/ghostHunter) plugin so that you can search my blog. The initial version of this theme was developed by [Alexis DEGRYSE](http://alexisdegryse.fr) and it's available [here](https://github.com/twogrey/ichi)
+
+
 Demo
 ====
 
-You can view a live demo at www.desintegrateur.fr.
+You can view a live demo of the current version of this theme at [blog.zarifis.info](http://blog.zarifis.info/). The initial version of the theme can be viewed at [www.desintegrateur.fr](http://www.desintegrateur.fr).
 
 About
 ====
